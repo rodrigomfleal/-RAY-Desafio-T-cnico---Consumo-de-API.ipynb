@@ -15,20 +15,19 @@ Para obter uma chave, siga as instruções abaixo:
 
 ### Passos para executar
 
-1. Instalar as dependências:
+1. Acesse o Google Colab:
 
-- Necessa biblioteca google-api-python-client. Para instalá-la, execute o seguinte comando:
-bash
-Copy code
-pip install --upgrade google-api-python-client
-Obter a chave de API:
+- Abra o navegador e acesse Google Colab;
+- Faça login com sua conta do Google, se necessário;
 
-Substitua a variável api_key no código pela chave de API que você gerou.
-Rodar o código:
+2. Crie um Novo Notebook:
 
-Após inserir a chave de API, basta rodar o script Python. Ele irá acessar a playlist de vídeos de highlights da Fórmula 1, buscar as informações dos vídeos e gerar o ranking de acordo com as visualizações.
-Exemplo de execução:
-bash
-Copy code
-python ranking_f1_videos.py
-Após a execução, o script exibirá o ranking dos vídeos mais assistidos, com base nas visualizações.
+- Clique em "File" (Arquivo) no menu superior e selecione "New Notebook" (Novo notebook).
+
+3. Insira o Código:
+
+- Copie o código que você criou e cole na célula inicial do notebook.
+- Se o código estiver dividido em partes (múltiplas células), insira cada parte em células separadas.
+
+4. 
+
