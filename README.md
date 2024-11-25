@@ -2,17 +2,6 @@
 
 ## Como Rodar o Projeto:
 
-### Pré-requisitos:
-
-Antes de executar o código, você precisa de uma chave de API do YouTube. 
-Para obter uma chave, siga as instruções abaixo:
-
-- Acesse o Google Cloud Console.
-- Crie um projeto.
-- Habilite a YouTube Data API v3 na Biblioteca.
-- Gere uma chave de API.
-
-
 ### Passos para executar
 
 1. Acesse o Google Colab:
